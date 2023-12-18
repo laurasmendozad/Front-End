@@ -1,4 +1,4 @@
-# Desafío 2 - Introducción a HTML
+# Desafío 2 - El Clásico Lemon Pie
 ![image](https://github.com/laurasmendozad/Front-End/assets/58611097/744c81a5-797b-473c-90da-8c9b2dc55f0e)
 URL: https://fe1-desafio002.vercel.app/
 
