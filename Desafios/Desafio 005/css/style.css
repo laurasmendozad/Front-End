@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+header, footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;    
+    align-items: center;
+}
+header{
+    height: 100px;
+}
+footer{
+    height: 150px;
+}
+h2{
+    font-size: 24px;
+    color: red;
+}
+.empresa{
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    padding: 10px;
+}
+.pizza{
+    color: green;
+}
+.front{
+    color: red;
+}
+.logotipo, .logotipo-footer{
+    display: flex;
+    align-items: center;
+    padding: 0px 20px 0px 15px;
+}
+.menu ul{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 0px 20px 0px 0px;
+    list-style-type: none;
+}
+.menu-footer ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.item-nav{    
+    font-size: 16px;
+    padding: 6px;
+}
+main{
+    display: flex;
+    margin: 40px 20px;
+    justify-content: space-around;
+}
+
+.aviso{
+    background-image: url(/img/delivery.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    width: 490px;
+    height: 350px;
+    padding: 20px 0px 0px 15px;
+}
+.compra{
+    color: white;
+}
+.nombre-podio{
+    text-align: center;
+    padding-bottom: 80px;
+}
+article{
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    width: 490px;
+    justify-content: space-around;
+}
+h3{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.item-ranking{
+    padding-bottom: 10px;
+}
