@@ -1,0 +1,64 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contenedorImagen{
+    background-color: #e6e6e6;
+    text-align: center;
+    line-height: 12;
+}
+
+h1, .tituloSeccion{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 10px;
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+
+.tituloSeccion{
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+article{
+    margin-bottom: 30px;
+}
+
+p{
+    line-height: 0.3;
+}
+
+span{
+    font-weight: bold;
+}
+
+.dato{
+    font-style: italic;
+}
+
+.textoIndentado{
+    text-indent: 5em;
+}
+
+.ultimaLinea{
+   margin-bottom: 150px;
+}
+
+footer{
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 2;
+}
+
+img {
+    margin: 0 5px;
+    vertical-align: middle;
+  }
