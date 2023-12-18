@@ -6,5 +6,5 @@ URL: https://fe1-desafio001.vercel.app/
 Este proyecto ha sido construido usando las siguientes tecnologías:
 - HTML5
 
-## **Características**
-- **📖 Diseño de una sola página**
+## Características
+- Diseño de una sola página
