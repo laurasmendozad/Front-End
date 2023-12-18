@@ -6,3 +6,4 @@
 - [Desafío 2:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20002) El Clásico Lemon Pie
 - [Desafío 3:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20003) Curriculum Vitae de Bruce Wayne
 - [Desafío 4:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20004) Tarjetas Héroes
+- [Desafío 5:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20005) Pizzeria
