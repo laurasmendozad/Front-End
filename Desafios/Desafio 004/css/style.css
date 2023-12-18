@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+h1, h2{
+    font-weight: normal;
+}
+.encabezado{
+    background-color: #1CD1B0;
+    padding: 15px;
+}
+.titulo, .pieDePagina{
+    background-color: #00669F;
+    padding: 10px;
+}
+.titulo{
+    padding: 25px;
+    margin-bottom: 100px;
+}
+.pieDePagina {
+    margin-top: 100px;
+    color: white;
+    padding: 15px;
+}
+.bgBatman{
+    background-image: url("/img/fondobatman.png");
+}
+.bgHarleyQuinn{
+    background-image: url("/img/fondoharleyquinn.png");
+}
+.contenedorFondo{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    height: 194px;
+}
+section{
+    text-align: center;
+}
+article{
+    display: inline-block;
+    width: 300px;
+    background-color: #F3F3F3;
+    margin: 30px;
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+}
+i{
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+}
+p, i, .contenedorFondo{
+    text-align: left;
+}
+p{
+    padding: 10px 16px 30px;
+}
+img{
+    border-radius: 50%;
+    position: relative;
+    bottom: 60px;
+    margin-bottom: -50px;
+}
+button{
+    background-color: #00669F;
+    color: white;
+    padding: 15px 40px;
+    margin: 20px;
+}
+button, img, article{    
+    border-style: hidden;
+    filter: drop-shadow(0px 3px 3px gray);
+}
+
+
+
+
+
