@@ -9,3 +9,4 @@ Este proyecto ha sido construido usando las siguientes tecnologías:
 ## Características
 - Diseño de una sola página
 - Uso de listas ordenadas y no ordenadas
+- Importe de imágenes
