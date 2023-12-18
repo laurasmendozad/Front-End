@@ -1,10 +1,11 @@
 # Desafío 2 - Introducción a HTML
-![image](https://github.com/laurasmendozad/Front-End/assets/58611097/7d32d366-2ee3-403e-b543-a901155e005b)
+![image](https://github.com/laurasmendozad/Front-End/assets/58611097/744c81a5-797b-473c-90da-8c9b2dc55f0e)
 URL: https://fe1-desafio002.vercel.app/
 
 ## Herramientas
 Este proyecto ha sido construido usando las siguientes tecnologías:
 - HTML5
 
-## **Características**
-- **📖 Diseño de una sola página**
+## Características
+- Diseño de una sola página
+- Uso de listas ordenadas y no ordenadas
