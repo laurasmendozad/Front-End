@@ -1,8 +1,8 @@
 # Desafío 7 - Tienda de Super Poderes
 
-![image](https://github.com/laurasmendozad/Front-End/assets/58611097/8527a0cb-3754-4863-b4cd-af7bced1d5e9)
+![image](https://github.com/laurasmendozad/Front-End/assets/58611097/dc8cdba5-02ea-4e12-a4b7-115f0f6f2ed1)
 
-URL: https://fe1-desafio006.vercel.app/
+URL: https://fe1-desafio007.vercel.app/
 
 ## Herramientas
 
