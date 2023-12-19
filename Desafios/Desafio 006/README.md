@@ -1,6 +1,6 @@
 # Desafío 6 - Tarjetas Héroes Responsiva
-![image](https://github.com/laurasmendozad/Front-End/assets/58611097/427c8bc7-bfeb-48af-a992-ba401545a28a)
-URL: https://fe1-desafio005.vercel.app/
+![image](https://github.com/laurasmendozad/Front-End/assets/58611097/8527a0cb-3754-4863-b4cd-af7bced1d5e9)
+URL: https://fe1-desafio006.vercel.app/
 
 ## Herramientas
 Este proyecto ha sido construido usando las siguientes tecnologías:
