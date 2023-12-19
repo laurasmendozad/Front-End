@@ -9,4 +9,4 @@
 - [Desafío 5:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20005) Pizzería (Flexbox)
 - [Desafío 6:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20006) Tarjetas Héroes Responsiva (Medidas relativas, media querie)
 - [Desafío 7:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20007) Tienda de Super Poderes (Formularios)
-- [Desafío 8:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20008) Pagina de Deportes (Proyecto Final para Escritorio y Movil)
+- [Proyecto Final:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20008) Pagina de Deportes
