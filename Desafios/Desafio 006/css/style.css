@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+h1, h2{
+    font-weight: normal;
+}
+h2{
+    text-transform: uppercase;
+}
+.encabezado{
+    background-color: #D1891C;
+    padding: 0rem 1rem;
+}
+.titulo, .pieDePagina{
+    background-color: #00669F;
+    padding: 10px;
+}
+.titulo{
+    padding: 15px;
+    margin-bottom: 5px;
+    color: white;
+}
+.pieDePagina {
+    margin-top: 100px;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size:x-small;
+    position: relative;
+}
+.bgBatman{
+    background-image: url("/img/fondobatman.png");
+}
+.bgMujerMaravilla{
+    background-image: url("/img/fondomujermaravilla.png");
+}
+.bgSuperman{
+    background-image: url("/img/fondosuperman.png");
+}
+.bgHarleyQuinn{
+    background-image: url("/img/fondoharleyquinn.png");
+}
+.contenedorFondo{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 194px;
+}
+section{
+    text-align: center;
+}
+article{
+    display: inline-block;
+    width: 300px;
+    background-color: #F3F3F3;
+    margin: 20px;
+    
+}
+article, .bgBatman, .bgHarleyQuinn, .bgMujerMaravilla, .bgSuperman{
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+}
+i{
+    color: red;
+    font-size: 30px;
+    padding: 15px;
+}
+p, i, .contenedorFondo{
+    text-align: left;
+}
+p{
+    padding: 10px 16px 30px;
+}
+.profilepic{
+    max-width: 50%;
+    border-radius: 50%;
+    position: relative;
+    bottom: 60px;
+    margin-bottom: -50px;
+}
+button{
+    background-color: #00669F;
+    color: white;
+    padding: 15px 40px;
+    margin: 20px;
+}
+button, img, article{    
+    border-style: hidden;
+    filter: drop-shadow(0px 3px 3px gray);
+}
+.logoGithub{
+    max-height: 15px;
+    position: absolute;
+    bottom: 1.5em;
+    right: 0.5em;
+}
+
+@media (min-width: 480px) {
+    .titulo{
+        margin-bottom: 40px;
+    }
+    .bgSuperman, .bgHarleyQuinn{
+        position: relative;
+        bottom: 1em;
+    }
+    .pieDePagina{
+        font-size:medium;
+    }
+    .logoGithub{
+        max-height: 20px;
+        position: absolute;
+        bottom: 1em;
+        right: 1em;
+    }
+}
+
+@media (max-width: 480px) {
+    .mobileHidden{
+        display: none;
+    }
+}
