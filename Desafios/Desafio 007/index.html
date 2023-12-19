@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/030c83fb5e.js" crossorigin="anonymous"></script>
+    <title>Clase 11</title>
+</head>
+<body>
+    <header>
+        <p class="encabezado">20% de descuento en todos los productos!</p>
+        <div class="nombreTienda">
+            <img class="logoTienda" src="img/Logo.png" alt="Logo Tienda">
+            <h1 class="titulo">Nombre Tienda</h1>
+        </div>        
+        <nav class="menu">
+            <ul>
+                <li>Ingresar</li>
+                <li>Registrarme</li>
+                <li>Contacto</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2 class="tituloSeccion">Añadí tu super!</h2>
+            <p>Agregá tu personaje favorito completando las opciones.</p>
+            <form action="" method="">
+                <div class="datosSuper">
+                    <fieldset>
+                        <div class="entrada">
+                            <label for="nombre">Nombre</label>
+                            <input type="text" id="nombre" name="nombre" required>
+                        </div>
+                        <div class="entrada">
+                            <label for="fecha">Fecha</label>
+                            <input type="date" id="fecha" name="fecha">
+                        </div>
+                        <div class="entrada">
+                            <textarea name="descripcion" id="descripcion" cols="30" rows="10" placeholder="Descripción"></textarea>
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <div class="entrada">
+                            <label for="especie">Especie</label>
+                            <select name="especie" id="especie" required>
+                                <option value="" disabled selected hidden>Especie</option>
+                                <option value="alien">Alien</option>
+                                <option value="animal">Animal</option>
+                                <option value="human">Humano</option>                            
+                            </select>
+                        </div>
+                        <div class="entrada">
+                            <label for="foto">Agregar Foto</label>
+                            <input type="file" id="foto" name="foto">
+                        </div>
+                        <div class="entrada">
+                            <label for="poderes">Poderes</label>
+                            <ul class="poderes">
+                                <li>
+                                    <input type="checkbox" id="volar" name="volar">
+                                    <label class="label-especial" for="volar">Volar</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" id="superinteligencia" name="superinteligencia">
+                                    <label class="label-especial" for="superinteligencia">SuperInteligencia</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" id="rayolaser" name="rayolaser">
+                                    <label class="label-especial" for="rayolaser">Vista de rayo láser</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" id="billetera" name="billetera">
+                                    <label class="label-especial" for="billetera">Billetera gorda</label>
+                                </li>
+                            </ul>
+                        </div>
+                        <hr>
+                        <div class="entrada">
+                            <label for="tipoPersonaje">Tipo de personaje</label>
+                            <ul class="tipoPersonaje">
+                                <li>
+                                    <input type="radio" name="tipo" id="heroe">
+                                    <label class="label-especial" for="heroe">Héroe / Heroína</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="tipo" id="villano">
+                                    <label class="label-especial" for="villano">Villano / Villana</label>
+                                </li>
+                            </ul>
+                        </div>
+                    </fieldset>
+                </div>
+                <fieldset>
+                    <button type="submit">Añadir</button>
+              </fieldset>
+        </section>
+    </main>
+    <footer class="pieDePagina">
+        Todos los derechos reservados a FRONT END 1
+    </footer>    
+</body>
+</html>
