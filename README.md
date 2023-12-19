@@ -7,3 +7,4 @@
 - [Desafío 3:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20003) Curriculum Vitae de Bruce Wayne (Intro CSS, fuentes, colores, margenes)
 - [Desafío 4:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20004) Tarjetas Héroes (Fondos, modelo de cajas y posicionamiento)
 - [Desafío 5:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20005) Pizzería (Flexbox)
+- [Desafío 6:](https://github.com/laurasmendozad/Front-End/tree/main/Desafios/Desafio%20006) Tarjetas Héroes Responsiva (Medidas relativas, media querie)
